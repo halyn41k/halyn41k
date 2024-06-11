@@ -16,9 +16,6 @@
 ## 📫 How to reach me ...
 - Email: halynakotul@gmail.com
 
-## 😄 Pronouns:
-- She/Her
-
 ## ⚡ Fun fact:
 - I love pixel indie games!
 
