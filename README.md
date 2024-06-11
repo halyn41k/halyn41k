@@ -11,7 +11,6 @@
 
 ## 📝 I’m looking to collaborate on ...
 - Open-source projects where I can learn and share my knowledge
-- Projects related to data analysis and machine learning
 - Web development and creating new exciting web applications
 
 ## 📫 How to reach me ...
