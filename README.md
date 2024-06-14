@@ -1,4 +1,4 @@
-![github-snake](https://github.com/halyn41k/halyn41k/assets/162026407/8f546787-94d3-4e60-a536-8b5375747df8)# 👋 Hi, I’m @halyn41k
+# 👋 Hi, I’m @halyn41k
 
 ## 👀 I’m interested in ...
 - Programming and software development
@@ -19,6 +19,7 @@
 ## ⚡ Fun fact:
 - I love pixel indie games!
 
+![github-snake](https://github.com/halyn41k/halyn41k/assets/162026407/8f546787-94d3-4e60-a536-8b5375747df8)
 ![Uploa<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
