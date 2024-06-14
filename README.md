@@ -14,7 +14,7 @@
 - Web development and creating new exciting web applications
 
 ## 📫 How to reach me ...
-- Email: halynakotul@gmail.com
+- Email: halynakotuk@gmail.com
 
 ## ⚡ Fun fact:
 - I love pixel indie games!
