@@ -1,4 +1,3 @@
-![SvgPixelArt-animated-1718382548643](https://github.com/halyn41k/halyn41k/assets/162026407/c254b153-096d-4f6e-87fd-53661aa64cd9)
 # 👋 Hi, I’m @halyn41k
 
 ## 👀 I’m interested in ...
