@@ -1,25 +1,5 @@
 # 👋 Hi, I’m @halyn41k
 
-## 👀 I’m interested in ...
-- Programming and software development
-- Web development and creating user interfaces
-
-## 🌱 I’m currently learning ...
-- JavaScript and frontend frameworks like Vue.js
-- Databases and handling large datasets
-- C++
-
-## 📝 I’m looking to collaborate on ...
-- Open-source projects where I can learn and share my knowledge
-- Web development and creating new exciting web applications
-
-## 📫 How to reach me ...
-- Email: halynakotuk@gmail.com
-
-## ⚡ Fun fact:
-- I love pixel indie games!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/halynakotiuk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halynakotuk@gmail.com) 
 
